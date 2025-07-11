@@ -1,6 +1,6 @@
 # Hi there
 
-Hi, I'm Marvin, a Backend Developer from Germany specializing in Java. I work on a variety of projects, preferably using Java and other languages/tools that are listed in my tech stack below. If you have any questions, feel free to hit me up on Discord!
+Hi, I'm Marvin, a Backend Developer from Germany specializing in Java. I work on a variety of projects, most of which are private, primarily using Java and other languages/tools that are listed in my tech stack below. If you have any questions, feel free to hit me up on Discord!
 
 [![Discord](https://img.shields.io/badge/Discord-Obamator-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
